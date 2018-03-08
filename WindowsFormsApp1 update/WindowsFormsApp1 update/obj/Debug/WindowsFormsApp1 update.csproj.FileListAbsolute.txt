@@ -1,0 +1,11 @@
+C:\Users\Master\Source\Repos\WindowsFormsApp1 update\WindowsFormsApp1 update\WindowsFormsApp1 update\bin\Debug\WindowsFormsApp1 update.exe.config
+C:\Users\Master\Source\Repos\WindowsFormsApp1 update\WindowsFormsApp1 update\WindowsFormsApp1 update\bin\Debug\WindowsFormsApp1 update.exe
+C:\Users\Master\Source\Repos\WindowsFormsApp1 update\WindowsFormsApp1 update\WindowsFormsApp1 update\bin\Debug\WindowsFormsApp1 update.pdb
+C:\Users\Master\Source\Repos\WindowsFormsApp1 update\WindowsFormsApp1 update\WindowsFormsApp1 update\obj\Debug\WindowsFormsApp1 update.csprojResolveAssemblyReference.cache
+C:\Users\Master\Source\Repos\WindowsFormsApp1 update\WindowsFormsApp1 update\WindowsFormsApp1 update\obj\Debug\WindowsFormsApp1_update.Form1.resources
+C:\Users\Master\Source\Repos\WindowsFormsApp1 update\WindowsFormsApp1 update\WindowsFormsApp1 update\obj\Debug\WindowsFormsApp1_update.Properties.Resources.resources
+C:\Users\Master\Source\Repos\WindowsFormsApp1 update\WindowsFormsApp1 update\WindowsFormsApp1 update\obj\Debug\WindowsFormsApp1 update.csproj.GenerateResource.Cache
+C:\Users\Master\Source\Repos\WindowsFormsApp1 update\WindowsFormsApp1 update\WindowsFormsApp1 update\obj\Debug\WindowsFormsApp1 update.csproj.CoreCompileInputs.cache
+C:\Users\Master\Source\Repos\WindowsFormsApp1 update\WindowsFormsApp1 update\WindowsFormsApp1 update\obj\Debug\WindowsFormsApp1 update.exe
+C:\Users\Master\Source\Repos\WindowsFormsApp1 update\WindowsFormsApp1 update\WindowsFormsApp1 update\obj\Debug\WindowsFormsApp1 update.pdb
+C:\Users\Master\Source\Repos\WindowsFormsApp1 update\WindowsFormsApp1 update\WindowsFormsApp1 update\obj\Debug\WindowsFormsApp1_update.Form2.resources
